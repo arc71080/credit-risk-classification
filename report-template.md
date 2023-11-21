@@ -8,7 +8,7 @@ During the analysis, LogisticRegression was used with the oringal data set. I fi
 
 ## Results
 
-* Machine Learning Model 1:
+Machine Learning Model 1:
 - Balanced Accuracy: .95
 - Precision Healthy Loans: 1.00
 - Precision High Risk Loans: .85
@@ -16,7 +16,7 @@ During the analysis, LogisticRegression was used with the oringal data set. I fi
 - Recall High Risk Loans: .91
 
 
-* Machine Learning Model 2:
+Machine Learning Model 2:
 - Balanced Accuracy: .99
 - Precision Healthy Loans: 1.00
 - Precision High Risk Loans: .84
